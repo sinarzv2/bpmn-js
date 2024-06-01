@@ -6,3 +6,7 @@ lib/**/*.d.ts
 .idea
 *.iml
 .DS_Store
+/.vs
+/yarn.lock
+/package-lock.json
+/package-lock.json
