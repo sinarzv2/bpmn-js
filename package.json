@@ -119,7 +119,8 @@
     "inherits-browser": "^0.1.0",
     "min-dash": "^4.1.1",
     "min-dom": "^4.0.3",
-    "tiny-svg": "^3.0.0"
+    "tiny-svg": "^3.0.0",
+    "uuid": "^9.0.1"
   },
   "remarkConfig": {
     "plugins": [
